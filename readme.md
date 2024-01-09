@@ -12,19 +12,21 @@ Max Muster
 
 ## 9.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mich erkundigt, ob es überhaupt möglich für mich ist den Minesweeper zu programmieren, ich habe mich dafür auf w3schools und YouTube informiert und mir ein Beispiel angeschaut://www.youtube.com/watch?v=iXAD66K6_T8, https://www.w3schools.com/cs/cs_arrays.php . Ich denke, dass es mit vollem Einsatz möglich ist, das für mich zu Programmieren.
 
 ## 16.1 und 23.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Projektmappe für winforms in VS erstellen
+- [ ] Benutzeroberfläche erstellen
+- [ ] Spiellogik implementieren
+- [ ] Event-Handler hinzufügen
+
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
-| ...            |                      |                |                |          |
-| 4              |                      |                |                |          |
+| 1              |  Programm in VS gestartet |   Start Knopf gedrückt wird startet das Spiel |Spiel wird gestartet |          |
+|                |                      |                |                |          |
+|                |                      |                |                |          |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -32,16 +34,16 @@ Max Muster
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
-- [ ] ...
-
-- [ ] Achtes AP
+- [ ] Minen platzieren
+- [ ] Nachbarzellen zählen
+- [ ] Spielende überprüfen
+- [ ] Benutzerfreundliche Funktionen hinzufügen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 8               |                      |                |                |          |
+| 1               |                      |                |                |          |
+| 2               |                      |                |                |          |
+| 3               |                      |                |                |          |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 

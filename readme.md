@@ -14,22 +14,22 @@ Max Muster
 
 ✍️ Heute habe ich mich erkundigt, ob es überhaupt möglich für mich ist den Minesweeper zu programmieren, ich habe mich dafür auf w3schools und YouTube informiert und mir ein Beispiel angeschaut://www.youtube.com/watch?v=iXAD66K6_T8, https://www.w3schools.com/cs/cs_arrays.php . Ich denke, dass es mit vollem Einsatz möglich ist, das für mich zu Programmieren.
 
-## 16.1 und 23.1.2024
+## 16.1
 
-- [ ] Projektmappe für winforms in VS erstellen
-- [ ] Benutzeroberfläche erstellen
-- [ ] Spiellogik implementieren
-- [ ] Event-Handler hinzufügen
+- [x] Projektmappe für winforms in VS erstellen
+- [x] Tutorial zu winforms anschauen
+- [x] Videos zu Arrays anschauen
+
 
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |  Programm in VS gestartet |   Start Knopf gedrückt wird startet das Spiel |Spiel wird gestartet |          |
+| 1              |                      |                |                |          |
 |                |                      |                |                |          |
 |                |                      |                |                |          |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
-
+✍️ Heute am 16.1. habe ich mir wie geplant Tutorials angeschaut, wie man Programme in C# mit Winforms macht, dabei ist mir aufgefallen, dass ich am Nachmittag noch ein bisschen Zeit in das Projekt stecke, da ich noch ein oder zwei weitere Videos dazu anschauen möchte. Auch habe ich die Projektmappe erstellt; das nächste Mal fange ich an, den Code zu schreiben.
+https://www.youtube.com/watch?v=RyfP0GE6jv4, in der Infobox ist die ganze Playlist enthalten. Das möchte ich noch schauen https://youtu.be/0zLZQesgV5o?si=_brhreDSwxmSlGio
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 23.1.2024

@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=RyfP0GE6jv4, in der Infobox ist die ganze Playli
 | 2               |                      |                |                |          |
 | 3               |                      |                |                |          |
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 23.1 habe ich wie vorgenommen mithilfe der Videos den Code für den Minesweeper angefangen zu schreiben, jedoch habe ich relativ schnell am Anfang gemerkt das mir die Arbeit mit Winforms schwer fällt. Vor allem das Konzept zu verstehen macht mir Mühe obwohl ich ein Haufen Youtube Videos dazu geschaut habe. Ich werde darum heute Nachmittag mich nochmals daran Versuchen. Jedoch habe ich das Hauptziel dieses Projekt relativ gut erreicht und zwar wie Arrays funktionieren und sie anwenden also ist das Projekt noch nicht dem scheitern verurteilt :)
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 

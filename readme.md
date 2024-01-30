@@ -51,10 +51,10 @@ https://www.youtube.com/watch?v=RyfP0GE6jv4, in der Infobox ist die ganze Playli
 
 ## 30.1.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 30.1. habe ich mein Github Profil upgedatet, in dem ich Informationen über mich und meine Ausbildung hinzugefügt habe. Auch habe ich meinen Code mithilfe der Tipps angepasst und den ganzen Text, der vorher auf Deutsch war, zu englisch gewechselt. 
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Ich finde, es hat alles gut geklappt, vor allem auch mit den von mir gesetzten Zielen bzw. den VBV der LP 2, jedoch musste ich auch einen schmerzenden Misserfolg verbuchen. Ich hatte grosses Interesse, den Minesweeper mithilfe von Winforms zu programmieren, jedoch hat sich dann bei der Umsetzung gezeigt, dass es etwas komplizierter ist, als ich gedacht hatte, und ich schlussendlich ein anderes kurzes Programm geschrieben habe, um Arrays nochmal zu repetieren.
 
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Ich persönlich fand die 9-wöchige LP2 angenehmer, da man mehr Zeit für ein Projekt hat und so auch weniger Stress hat, da man nebenbei auch viel für die Kanti lernen/erledigen muss. Ansonsten bin ich aber sehr zufrieden, wie das Lernatelier gestaltet ist. :)

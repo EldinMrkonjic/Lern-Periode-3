@@ -1,0 +1,14 @@
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\bin\Debug\net6.0\ArrayÜbung.exe
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\bin\Debug\net6.0\ArrayÜbung.deps.json
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\bin\Debug\net6.0\ArrayÜbung.runtimeconfig.json
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\bin\Debug\net6.0\ArrayÜbung.dll
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\bin\Debug\net6.0\ArrayÜbung.pdb
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\obj\Debug\net6.0\ArrayÜbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\obj\Debug\net6.0\ArrayÜbung.AssemblyInfoInputs.cache
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\obj\Debug\net6.0\ArrayÜbung.AssemblyInfo.cs
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\obj\Debug\net6.0\ArrayÜbung.csproj.CoreCompileInputs.cache
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\obj\Debug\net6.0\ArrayÜbung.dll
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\obj\Debug\net6.0\refint\ArrayÜbung.dll
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\obj\Debug\net6.0\ArrayÜbung.pdb
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\obj\Debug\net6.0\ArrayÜbung.genruntimeconfig.cache
+C:\Users\eldin\source\repos\ArrayÜbung\ArrayÜbung\obj\Debug\net6.0\ref\ArrayÜbung.dll
